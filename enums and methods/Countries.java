@@ -1,0 +1,3 @@
+enum Countris{
+	INDIA,USA,DUBAI,NEWZELAND,LONDON,DUTCH
+}
