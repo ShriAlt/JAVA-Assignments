@@ -11,7 +11,7 @@ class Game{
             "Half-Life: Alyx", "Gears 5", "The Last of Us Part II", "Control", "Hitman 3", "Death Stranding", 
             "Ghost of Tsushima", "Subnautica", "Stardew Valley", "Hunt: Showdown", "Sea of Thieves", 
             "Battlefield V", "PUBG: Battlegrounds", "Final Fantasy XIV", "Monster Hunter: World", 
-            "Fallout 4", "Satisfactory", "Valhallah", "Metro Exodus", "Call of Duty: Black Ops Cold War", 
+            "Fallout 4", "Satisfactor","Satisfactory", "Valhallah", "Metro Exodus", "Call of Duty: Black Ops Cold War",
             "Fall Guys", "Wasteland 3", "Planet Coaster", "Total War: Three Kingdoms", "XCOM 2", 
             "Kerbal Space Program", "Mordhau", "Factorio"};
 		for(String games: game){
