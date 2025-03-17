@@ -10,7 +10,7 @@ class Bucket{
 	
 	public  void jug(String name){
 		
-		this.name=name 
+		this.name=name;
 		
 	}
 }

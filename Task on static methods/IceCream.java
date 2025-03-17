@@ -1,6 +1,6 @@
 class IceCream {
     static void flavor() { 
-        System.out.println("Flavor: Chocolate"); '
+        System.out.println("Flavor: Chocolate");
     }
 
     static void color() { 
